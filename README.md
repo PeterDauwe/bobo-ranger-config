@@ -1,1 +1,1 @@
-# bobo-ranger-config
+# bobo-candy-icons
